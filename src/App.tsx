@@ -12,7 +12,7 @@ const handleClick = () => {
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Just a vanilla create-react-app overlaying a Phaser canvas :)</p>
         <a
@@ -26,7 +26,7 @@ function App() {
         <button className="App-button" onClick={handleClick}>
           Or click me
         </button>
-      </header>
+      </header> */}
     </div>
   )
 }
